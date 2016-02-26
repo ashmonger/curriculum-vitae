@@ -1,0 +1,73 @@
+Jeremy COLLIN
+30, single
+Cell: +33(0)666647263
+Email: jeremy.collin.lnk@gmail.com
+French Driving Licence
+
+System Administrator
+
+Education
+2013 - VMWare VSICM
+2011 - ITIL v3 Foundation
+2009 - Computer and Network Technician Certificate (BTS, French HND)
+
+Professional Experiences
+June 2014 to Jan. 2015 - OPEN, at Groupe Beaumanoir
+Position	System administrator
+Mission	Management of about 100 Linux servers, troubleshooting applications, evolution of the framework.
+Tech. Env.	Linux Debian, Windows Server (2003, 2008)
+Nov. 2012 to June 2014 - OPEN, at DGA-MI
+Position	System administrator
+Mission	DGA-MI (French Departement of Defense), Management and upgrade of different projects
+Tech. Env.	Linux CentOS, Debian, Ubuntu, VMWare ESXi, Windows Server (2003, 2008)
+Oct. 2011 to Nov. 2012 - OPEN, at SNCF
+Position	Open System Engineering : Linux
+Mission	Troubleshooting, Server management, Server installation
+Tech. Env.	Linux RedHat, Debian, VMWare ESXi
+May 2011 to Oct. 2012 - OPEN, at CEGELEC
+Position	System and Network Administrator
+Projects
+	Stella 		VMWare ESXi Cluster, HP MSA, HP ProCurve, MS Windows 2008R2.
+	DorBreizh	Migrate from one RedHat server to 2-node CentOS cluster, in production
+	Gentiane	2-node RedHat Cluster, HP MSA, OCFS2
+	Vauban	Migrate system and applications from x86 to x64
+	ItinIsere	8-node VMWare cluster, HP LeftHand, Cisco Nexus
+Jul. 2010 to Apr. 2011 - Helice, at SFR
+Position	Datacenter Management
+Mission	Managing hardware (servers, switches, routers), Room management.
+Tech. Env.	ISP Datacenter
+FeB. to Jul. 2010 - Axians
+Position 	Network Technician
+Mission 	Upgrading switches and routers in small offices workshift.
+Tech. Env.	HP Procurve, Cisco routers
+Sept. to Dec. 2009 -  Institute of Nuclear physics of Lyon 
+Position	Linux tech support
+Mission 	Troubleshooting and upgrading users env.
+Tech. Env. 	Scientific Linux, RedHat Enterprise Linux, Ubuntu Linux
+2007 to 2009 - Medimex, alternance
+Position	Network and system administrator
+Mission 	Management, linux server upgrade, virtualization, monitoring
+writing docs and procedures, helpdesk
+Tech. Env. 	PC, Windows XP, Linux Debian, Virtualization, Iptables
+
+Technical skills
+Linux			Ubuntu, Debian, RedHat Enterprise Linux, CentOS
+Cluster		Heartbeat, ocfs, RedHat Cluster, VMware ESXi Cluster
+Management		Datacenter, troubleshooting, technical difficulties
+Writing		Documentation, Procedures
+Hardware		PC, Servers, Routers (Cisco - notions), Switches (HP, Cisco)
+Microsoft		Windows 9x, XP, 2003 Server, 7, 2008 server R2
+Network		Dns, dhcp, Samba, nfs, ftp, web
+Security		Iptables, vpn
+Programmation 	Shell (Bash), LATEX, sed, awk
+Monitoring		Nagios, Centreon
+Virtualization	Xen, VMware Workstation, VMware ESXi, Virtualbox
+
+
+Language skills
+English		Fluent, technical
+French		Native
+Leisure time
+Hobby		Photography, Video games, Reading, Music
+Sports		Roller Derby Referee, Bike
+
